@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:score_tracker/core/themes/themes.dart';
 
 class AppBottomNavBar extends StatelessWidget {
   final Function(int index) onDestinationSelected;

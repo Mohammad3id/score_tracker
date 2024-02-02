@@ -30,6 +30,7 @@ class AppThemes {
     appBarTheme: const AppBarTheme(
       backgroundColor: _lightScaffoldBackground,
     ),
+    
   );
 
   static final darkTheme = ThemeData(

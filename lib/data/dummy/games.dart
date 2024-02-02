@@ -7,4 +7,5 @@ class DummyGames {
   static final basrah = Game(id: 3, color: MainColors.orange, name: "Basrah");
   static final scrable = Game(id: 4, color: MainColors.red, name: "Scrable");
   static final poker = Game(id: 5, color: MainColors.purple, name: "Poker");
+  static final games = [uno, domino, basrah, scrable, poker];
 }
